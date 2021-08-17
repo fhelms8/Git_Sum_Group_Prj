@@ -42,6 +42,25 @@
 
 <p>We created some great visuals but what do they mean, well we can see with greater performance from the women in the United States that we start claiming more medals. Within some years, The United States Women's Team leads in performance for all three-medal count over the men. Showing that while there were still struggles, the success of the United States Women's Team led the world. Among two of the three countries added for comparison. We see Japan does not have much success until the later part of their women's suffrage, after World War II. China did not even come back to the Olympics until the 1984 Summer Games. Lastly, we compared it to Russia, who have been allowing women to compete for just about the same time as we have. They do have a pretty good track record of success compared to our Women's Team.</p>
 
+<h4 style="color:#F09789">Three Selected Sported by USA Participants</h4>
+
+My initial question once I started observing the data within Excel, was "What selected sports had the biggest increase of women players compared to the men players, once the Women's movement started?" My thought process on this topic was: Would be there would be a major increase in women players and a decrease in men players in particular sports? For example, Gymnastics to me personally, was thought to be a woman dominate sport. So, would the women ultimately dominate and have more players than men in these selected categories? 
+
+Analysis:
+I originally had started working off the 9 most played sports by men and compare it to women, but decided it was better to go off the sports that were the most common out of the women players. Those three sports were: Athletics, Gymnastics, and Swimming. 
+
+Upon review, there was very little decline with male participants, except in the Athletics column. Through 1932-1964 there was a slight decline in male players where women started to have an increase, except for 1952. 
+
+From the Athletic category trend, women were allowed to compete in the Olympics starting in 1928.  The US started off with a total of 19 women vs 108 male players and ended with 76 (f) to 146 (m). That is an 89-player gap dropped down to a 70-player gap. That is not a huge difference in the scheme of things 
+Women were also allowed to participate in 1928 in the Gymnastics category but only one subcategory which was competition (not rings, parallel bars, etc.). This time, US women did not compete in Gymnastics until 1936, 2 Olympic years later, (8 years total) and opened with 8 total women competitors vs 72 (m). A whopping 64 player gap in 1936 vs 28 player gap in 2016 (21(f) vs 49(m). According to the numbers though, both genders participate count has steadily declined starting in 2000. 
+Finally, Swimming. Women were allowed to compete in swimming events in 1912. The US did not have women compete until 1920. Again, women had to wait another 2 Olympic years to compete where the US allowed a total of 12 female swimmers to participate vs 40 male swimmers. A 28-player difference is seen in 1920 compared to the 50-player difference in 2016 (49(f) vs 99 (m)). 
+
+
+Given the 2020 Olympic datasets aren't fully out yet, we only really know that the male to female ratio was the closest it has ever been with 49% female players to 51% male players. It would be interesting to compare the numbers in our data-frame to see if there was a major difference in these 3 selected sports and see how close the numbers truly vs is an all-around total of women to men ratio. 
+
+In conclusion, the fight for women equality has proven successful over time but there was not a decrease in male players per sport, there was simply an increase of women that participated within each sport. There were still a few major gaps within the female competitors to male competitors that I am sure will eventually become more equal. 
+
+
 ## Conclusions
 <p>Content in progress.</p>
 
