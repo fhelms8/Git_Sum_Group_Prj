@@ -34,7 +34,7 @@ Finally, Swimming. Women were allowed to compete in swimming events in 1912. The
 
 Given the 2020 Olympic datasets aren't fully out yet, we only really know that the male to female ratio was the closest it has ever been with 49% female players to 51% male players. It would be interesting to compare the numbers in our data-frame to see if there was a major difference in these 3 selected sports and see how close the numbers truly vs is an all-around total of women to men ratio. 
 
-In conclusion, the fight for women equality has proven successful over time but there was not a decrease in male players per sport, there was simply an increase of women that participated within each sport. There were still a few major gaps within the female competitors to male competitors that I am sure will eventually become more equal. </p>
+In summary, the fight for women equality has proven successful over time but there was not a decrease in male players per sport, there was simply an increase of women that participated within each sport. There were still a few major gaps within the female competitors to male competitors that I am sure will eventually become more equal. </p>
 
 <h4 style="color:#F09789">Age Analysis</h4>
 <p>My beginning question was what is the average age of a Female Olympian and doesthis average age change depending on the country? (Due to time constraints, I only focused on China, Russia, and Japan)</p>
